@@ -1,2 +1,2 @@
 # eightlake.github.io
-Eightlake user website. Used to host debt.cool.
+Eightlake user website. Used to host [debt.cool](debt.cool).
